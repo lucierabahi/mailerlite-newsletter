@@ -465,6 +465,10 @@ p {
     .resources-title {
         font-size: 2rem;
     }
+
+    .resources-p {
+        margin-bottom: 1rem;
+    }
 }
 
 /***** SECTION FAQ *****/
@@ -534,6 +538,7 @@ p {
 
     .faq-title {
         font-size: 2rem;
+        margin-bottom: 1rem;
     }
 
     .faq-subtitle {
